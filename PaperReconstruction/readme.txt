@@ -5,4 +5,4 @@ link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.565.1807&rep=rep1
 
 A comparison among fft,moving average,wavelet transform method is made with sinusoidal data using pytorch
 
-Same data is used to train the autoencoder
+Same data is used to test and train the autoencoder
